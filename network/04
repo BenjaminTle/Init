@@ -1,0 +1,1 @@
+netstat -nr | grep -A2 Internet: | grep default | cut -d ' ' -f 13

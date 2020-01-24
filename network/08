@@ -1,0 +1,4 @@
+Passez la ligne de commande permettant de trouver l'IP du site 
+ ping slash16.org  -c1 | grep "PING slash16.org" | cut -d '(' -f2 | cut -d ')' -f 1 
+ puis faire un whois pour trouver le nom de l'organisation qui heberge whois (IP_ADRESS)
+ La reponse est donc Amazon Technologies Inc.

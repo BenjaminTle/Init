@@ -1,0 +1,1 @@
+nslookup slash16.com | grep 'Server' | awk '{print$2}'

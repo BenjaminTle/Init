@@ -1,0 +1,4 @@
+C'est le reseau nat-1 qui fait la passerelle entre l'ecole et l'exterieur
+ C'eest en effet la derniere etape contenant une ip locale
+ https://en.wikipedia.org/wiki/Reserved_IP_addresses 
+Ces ip sont des adresses utiliser pour gerer les connexions entre les reseaux locaux et le reseau exterieur

@@ -1,0 +1,2 @@
+On peut consulter la clef rsa dans le fichier ~/ssh/authorized_keys
+Pour le configurer, on doit modifier le fichier /etc/ssh/sshd_config
